@@ -59,5 +59,7 @@ This project uses the **Gemini API** to generate content based on prompts. Here 
 - **Text Generation**: Craft stories, poems, or answers to questions.
 - **Image Generation**: Create visuals from descriptive text (if supported by the API version).
 - **Creative Exploration**: Experiment with multimodal outputs combining text and images.
+- **Fine Tuning a Custom model
+- **Function calling with Google Gemini API Key
 
 Enjoy experimenting with **Generative AI**! 🚀
